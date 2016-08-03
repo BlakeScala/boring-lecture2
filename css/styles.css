@@ -1,12 +1,6 @@
-h2.intro {
+.intro {
   text-transform: capitalize;
   font-style: oblique;
-  font-family: fantasy;
-}
-p.intro {
-  text-align: right;
-  font-weight: bolder;
-}
-img.intro {
-  border: 5px solid black;
+  font-family: cursive;
+  color: blue;
 }
